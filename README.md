@@ -12,7 +12,7 @@
 - 🎓 **Yönetim Bilişim Sistemleri** öğrencisiyim  
 - 📊 **Veri analizi**, **makine öğrenmesi**, **yapay zeka** ile ilgileniyorum  
 - 📌 **Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn** gibi araçları kullanıyorum  
-- ✍️ Yazılarımı [Medium'da](https://medium.com/@ozan.akblt) paylaşıyorum  
+- ✍️ Yazılarımı [Medium'da](https://medium.com/@ozan.akbltt) paylaşıyorum  
 - 💬 Yeni projeler için her zaman açığım  
 
 ---
@@ -36,7 +36,7 @@
 
 ### 🚀 Aktif Olduğum Platformlar
 
-- 🌐 [Medium](https://medium.com/@ozan.akblt)
+- 🌐 [Medium](https://medium.com/@ozan.akbltt)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ozan-akbulut-416167261/)
 - 📌 [Ankara, Türkiye](https://www.google.com/maps/place/Ankara)
 
