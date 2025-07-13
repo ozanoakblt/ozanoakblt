@@ -1,68 +1,68 @@
-<h1 align="center">Hi there, I'm Ozan Akbulut 👋</h1>
-<h3 align="center">A Data-Driven MIS Student, Passionate about AI & ML 🚀</h3>
+<h1 align="center">Hey, I'm Ozan Akbulut 👋</h1>
+<h3 align="center">Data & AI Enthusiast | MLOps Explorer | MIS Student at Karadeniz Technical University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Veri+Analizi+🧠;Makine+Öğrenmesi+🚀;Python+Sevdalısı+🐍;Yapay+Zeka+Tutkunu+🤖;Her+Zaman+Yeni+Projeler+İçin+Hazırım!" 
-       alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Veri+Analizi+Uzmanı+📊;Makine+%C3%96%C4%9Frenmesi+Tutkunu+🤖;MLOps+Ke%C5%9Ffinde+Devam+Ediyor+🚀;Python+Sevdal%C4%B1s%C4%B1+🐍;Projeye+Haz%C4%B1r+💡" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 🚀 Hakkımda
 
-- 🎓 **Karadeniz Teknik Üniversitesi** – Yönetim Bilişim Sistemleri öğrencisiyim  
-- 📌 Veri analizi, makine öğrenmesi ve yapay zeka ile yakından ilgileniyorum  
-- 🛠️ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn gibi araçları aktif olarak kullanıyorum  
-- ✍️ Medium’da yazılar yazarak öğrendiklerimi paylaşmayı seviyorum  
-- 🤝 Yeni projelere ve ekip çalışmalarına her zaman açığım  
+- 🎓 Karadeniz Teknik Üniversitesi – Yönetim Bilişim Sistemleri öğrencisiyim  
+- 🧠 Veri analizi, makine öğrenmesi, yapay zeka ve **MLOps** alanlarına ilgim var  
+- 🛠️ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn gibi araçları etkin kullanıyorum  
+- ✍️ Medium’da teknik yazılar yazıyorum  
+- 🤝 Yeni projelere, takım çalışmalarına ve iş birliklerine her zaman açığım  
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+### 🧰 Kullandığım Teknolojiler
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-303030?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-5B5F97?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozanakbulut&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ozanakbulut&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozanakbulut&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanakbulut&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozanakbulut&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Bana Ulaşın
+### 🔗 Bağlantılarım
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ozanakbulut)  
-- 📝 [Medium Yazılarım](https://medium.com/@ozanakbulut)  
-- 📩 Mail: ozanakbulut@example.com
+- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ozan-akbulutt/)
+- ✍️ [Medium Yazılarım](https://medium.com/@ozan.akbltt)
+- 📫 **Mail**: ozan.akbltt@gmail.com
 
 ---
 
-### ⚡ İlginç Gerçek
+### 💡 İlginç Gerçek
 
-> 🤯 Kahve ile kod yazmayı, veriyi görselleştirmeyi ve en karmaşık algoritmaları sadeleştirmeyi seviyorum!  
-> 🎯 Hedefim: Yapay zeka projelerinde derinleşmek ve topluma faydalı sistemler geliştirmek.
+> Veriden değer üretmeyi, öğrenmeyi ve öğrendiklerimi paylaşmayı seviyorum.  
+> MLOps ile modelleri sadece kurmak değil, üretime almak da benim için önemli.  
+> Ve tabii ki... bir fincan kahve olmadan kod yazılmaz! ☕️
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozanakbulut&theme=radical&no-frame=true&margin-w=20" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
 
