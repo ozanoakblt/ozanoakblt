@@ -1,63 +1,42 @@
-<h1 align="center">Hey, I'm Ozan Akbulut 👋</h1>
-<h3 align="center">Data & AI Enthusiast | MLOps Explorer | MIS Student at Karadeniz Technical University</h3>
+# Ozan Akbulut
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Veri+Analizi+Uzmanı+📊;Makine+%C3%96%C4%9Frenmesi+Tutkunu+🤖;MLOps+Ke%C5%9Ffinde+Devam+Ediyor+🚀;Python+Sevdal%C4%B1s%C4%B1+🐍;Projeye+Haz%C4%B1r+💡" alt="Typing SVG" />
-</p>
+### YÖNETİM BİLİŞİM SİSTEMLERİ ÖĞRENCİSİ & MLOPS TUTKUNU
+Karadeniz Teknik Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Teorik bilgimi, **uçtan uca model geliştirme ve devreye alma** süreçlerine odaklanarak pratiğe döküyorum. Bu profil, Makine Öğrenmesi Operasyonları (MLOps) başta olmak üzere, veri analizi ve yazılım geliştirme alanlarında tamamladığım projeleri barındırmaktadır.
 
 ---
 
-### 🚀 Hakkımda
+### 🛠️ Teknik Yetkinlikler
 
-- 🎓 Karadeniz Teknik Üniversitesi – Yönetim Bilişim Sistemleri öğrencisiyim  
-- 🧠 Veri analizi, makine öğrenmesi, yapay zeka ve **MLOps** alanlarına ilgim var  
-- 🛠️ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn gibi araçları etkin kullanıyorum  
-- ✍️ Medium’da teknik yazılar yazıyorum  
-- 🤝 Yeni projelere, takım çalışmalarına ve iş birliklerine her zaman açığım  
-
----
-
-### 🧰 Kullandığım Teknolojiler
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-5B5F97?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</p>
+| Kategori | Yetkinlikler |
+| :--- | :--- |
+| **Programlama Dilleri** | Python, SQL |
+| **Veri & ML Kütüphaneleri** | Numpy, Pandas, Matplotlib, Seaborn |
+| **Makine Öğrenimi** | Scikit-Learn (Sertifika bilgisi) |
+| **MLOps & Dağıtım** | MLflow, Docker, Kubernetes, FastApi |
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📂 Öne Çıkan Projeler
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozanakbulut&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanakbulut&theme=tokyonight" width="48%"/>
-</p>
+#### 1. House Energy MLOps Project
+* **Açıklama:** Bir evin enerji tüketimini tahmin etmek için makine öğrenmesi ve MLOps prensiplerini kullanarak geliştirilmiş **uçtan uca bir çözüm**.
+* **Teknolojiler:** Makine Öğrenimi, Python, MLflow, FastApi, Docker, Kubernetes.
+* **Odak Noktası:** Geliştirilen tahminsel modelin Docker ile imajının oluşturulması, Kubernetes kullanılarak kolayca dağıtılabilir bir web servisi olarak sunulması ve MLOps sürecinin uygulanması.
+* **Repo Linki:** [https://github.com/ozanoakblt/House_Energy_MLOps_Project](https://github.com/ozanoakblt/House_Energy_MLOps_Project)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozanakbulut&theme=tokyonight" />
-</p>
-
----
-
-### 🔗 Bağlantılarım
-
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ozan-akbulutt/)
-- ✍️ [Medium Yazılarım](https://medium.com/@ozan.akbltt)
-- 📫 **Mail**: ozan.akbltt@gmail.com
+#### 2. Online Mağaza Satış Trendleri Analizi
+* **Açıklama:** İngiltere merkezli bir online mağazanın 2010-2011 satış verilerinin analizi.
+* **Odak Noktası:** Zaman, ürün ve lokasyon ekseninde satış trendlerinin incelenmesi, en yoğun alışveriş saatleri ve en çok satan ürünler hakkında içgörüler elde edilmesi.
+* **Teknolojiler:** Python Kütüphaneleri (Numpy, Pandas, Matplotlib, Seaborn), Veri Analizi.
+* **Repo Linki:** [https://github.com/ozanoakblt/Online-Magaza-Satis-Trendlerinin-Zaman-Urun-ve-Lokasyon-Ekseninin-Analizi](https://github.com/ozanoakblt/Online-Magaza-Satis-Trendlerinin-Zaman-Urun-ve-Lokasyon-Ekseninin-Analizi)
 
 ---
 
-### 💡 İlginç Gerçek
+### 🎓 İletişim & Eğitim
 
-> Veriden değer üretmeyi, öğrenmeyi ve öğrendiklerimi paylaşmayı seviyorum.  
-> MLOps ile modelleri sadece kurmak değil, üretime almak da benim için önemli.  
-> Ve tabii ki... bir fincan kahve olmadan kod yazılmaz! ☕️
+* **Üniversite:** Karadeniz Teknik Üniversitesi - Yönetim Bilişim Sistemleri (2023 - 2027)
+* **E-posta:** ozan.akbltt@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/ozan-akbulutt/](https://www.linkedin.com/in/ozan-akbulutt/)
 
 ---
 
