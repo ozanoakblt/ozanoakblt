@@ -1,14 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:008080&height=180&section=header&text=Ozan%20Akbulut&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Yonetim%20Bilisim%20Sistemleri%20Ogrencisi%20%26%20MLOps%20Tutkunu&descAlignY=58&descSize=18)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=90&lines=whoami;Ozan+Akbulut+-+MLOps+meraklisi;cat+stack.txt;Python+%7C+MLflow+%7C+Airflow+%7C+Docker+%7C+FastAPI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=008080&center=true&vCenter=true&width=600&lines=Uctan+uca+MLOps+pipeline'lari+kuruyorum;MLflow+%2B+Airflow+%2B+FastAPI+%2B+Docker;Bankacilik+sektorunde+kredi+risk+skorlama;Surekli+ogreniyor%2C+surekli+insa+ediyorum)](https://git.io/typing-svg)
+🖥️ **[Retro Windows 3.1 tarzında interaktif profilimi görüntüle →](https://ozanoakblt.github.io/ozanoakblt/)**
 
-🖥️ **[Retro tarzda interaktif profilimi görüntüle →](https://ozanoakblt.github.io/ozanoakblt/)**
+![Profile views](https://komarev.com/ghpvc/?username=ozanoakblt&color=39ff14&style=flat)
 
 </div>
-
----
 
 Karadeniz Teknik Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim, aynı zamanda bir elektrik enerji firmasında yarı zamanlı veri bilimci olarak çalışıyorum. Teorik bilgimi, **uçtan uca model geliştirme ve devreye alma** süreçlerine odaklanarak pratiğe döküyorum.
 
@@ -47,12 +45,20 @@ Zaman, ürün ve lokasyon ekseninde satış trendleri analizi.
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ozanoakblt&show_icons=true&theme=transparent&hide_border=true&title_color=008080&icon_color=008080&text_color=ffffff)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozanoakblt&theme=transparent&hide_border=true&stroke=008080&ring=008080&fire=008080)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ozanoakblt&theme=dracula&no-frame=true&margin-w=10&row=1&column=6)
+
+</div>
+
+### 📊 İstatistikler
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ozanoakblt&show_icons=true&theme=dracula&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanoakblt&theme=dracula&hide_border=true" width="49%" />
 
 </div>
 
@@ -66,6 +72,4 @@ Zaman, ürün ve lokasyon ekseninde satış trendleri analizi.
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:000080&height=100&section=footer)
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=100&section=footer)
