@@ -8,7 +8,7 @@
 
 </div>
 
-Karadeniz Teknik Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim, aynı zamanda bir elektrik enerji firmasında yarı zamanlı veri bilimci olarak çalışıyorum. Teorik bilgimi, **uçtan uca model geliştirme ve devreye alma** süreçlerine odaklanarak pratiğe döküyorum.
+Karadeniz Teknik Üniversitesi Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim, aynı zamanda bir elektrik enerji firmasında yarı zamanlı veri bilimci olarak çalışıyorum. Teorik bilgimi, **uçtan uca model geliştirme ve devreye alma** süreçlerine odaklanarak pratiğe döküyorum.
 
 ### 🛠️ Teknik Yetkinlikler
 
